@@ -8,3 +8,7 @@ As the name suggests, it is going to be an app that posts news items and lets pe
 * cd newsfeeder
 * touch main.go
 * go mod init newsfeeder
+
+
+This creates a file - go.mod. It contains a inventory of all your dependencies. It is similar to:
+package.json file in node js.
