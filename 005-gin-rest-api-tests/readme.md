@@ -12,3 +12,6 @@ As the name suggests, it is going to be an app that posts news items and lets pe
 
 This creates a file - go.mod. It contains a inventory of all your dependencies. It is similar to:
 package.json file in node js.
+
+Also, it allows your go compiler to know where your project is indexed. Where the root folder of your project is. In our case, it is here next to our main.go
+
