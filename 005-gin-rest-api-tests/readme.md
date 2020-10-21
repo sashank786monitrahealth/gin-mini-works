@@ -15,3 +15,10 @@ package.json file in node js.
 
 Also, it allows your go compiler to know where your project is indexed. Where the root folder of your project is. In our case, it is here - where our main.go resides.
 
+* go run main.go
+
+It is working.
+
+* touch makefile
+
+add a makefile. 
